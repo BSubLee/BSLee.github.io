@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Course attending(Fall 2023)
 ======
-![Course attending Fall 2023](/images/Course schedule.jpg)
+![Course attending Fall 2023](/images/Fall-2023.png)
 
 For more info
 ------
