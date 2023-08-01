@@ -11,21 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, Gwangju Institue of Science and Technology(GIST), 2024(Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Teaching Assistant
+  * Gwangju Institute of Science and Technology
+  * GS1201, General Chemistry and Rec. I
+  * Duties included: Recitation class, Grading assignments
+  * Supervisor: Professor Jiaojie, Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Intern
+  * G-SURF(GIST Summer Undergraduate Research Fellowship) program
+  * Thesis: Discovering coronavirus inhibitory drug targeting SARS-CoV-2 main protease
+  * Duties included: Synthesis of orotic acid derivates
+  * Supervisor: Professor Yong-chul Kim, Dr. Koon Mook Kang
+ 
+* Winter 2022: Research Intern
+  * GIST School of life science Internship program
+  * Thesis: Discovering coronavirus inhibitory drug targeting SARS-CoV-2 main protease
+  * Duties included: Synthesis of orotic acid derivates
+  * Supervisor: Professor Yong-chul Kim, Dr. Koon Mook Kang
+ 
+* 2023: Research Intern
+  * Undergraduate Thesis Research course
+  * Thesis: Screening and synthesis of purinone core-based compound for P2X3R antagonists
+  * Duties included: Synthesis of purinone core compounds
+  * Supervisor: Professor Yong-chul Kim
   
 Skills
 ======
