@@ -21,19 +21,13 @@ Work experience
   * Duties included: Recitation class, Grading assignments
   * Supervisor: Professor Jiaojie, Li
 
-* Summer 2022: Research Intern
+* Summer 2022, Winter 2022: Research Intern
   * G-SURF(GIST Summer Undergraduate Research Fellowship) program
   * Thesis: Discovering coronavirus inhibitory drug targeting SARS-CoV-2 main protease
   * Duties included: Synthesis of orotic acid derivates
   * Supervisor: Professor Yong-chul Kim, Dr. Koon Mook Kang
  
-* Winter 2022: Research Intern
-  * GIST School of life science Internship program
-  * Thesis: Discovering coronavirus inhibitory drug targeting SARS-CoV-2 main protease
-  * Duties included: Synthesis of orotic acid derivates
-  * Supervisor: Professor Yong-chul Kim, Dr. Koon Mook Kang
- 
-* 2023: Research Intern
+* Spring~Fall 2023: Research Intern
   * Undergraduate Thesis Research course
   * Thesis: Screening and synthesis of purinone core-based compound for P2X3R antagonists
   * Duties included: Synthesis of purinone core compounds
