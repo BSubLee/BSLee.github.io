@@ -16,7 +16,7 @@ Python: Basic level
 
 Course attending(Fall 2023)
 ======
-![Course attending Fall 2023](/images/Fall-2023.png)
+![Course attending Fall 2023](/images/Fall-2023.png){: width="50%"}
 
 Contact Me
 ------
