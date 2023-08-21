@@ -14,7 +14,7 @@ Education
 * High school in Cheongju high school, 2017-2020
 * B.S. in Gwangju Institue of Science and Technology(GIST), Mar.2020 - Feb.2024
   * Major: School of Life Sciences(Mar. 2021~Present)
-* M.S. in Korea Advanced Institue of Science and Technology(KAIST), Mar.2024(Confirmed)-
+* M.S. in Korea Advanced Institue of Science and Technology(KAIST), Scheduled(Confirmed)
   * System Biology and Medical Lab(Graduate School of Engineering Biology)
   * Advisor: Professor Hyun Uk Kim
 
