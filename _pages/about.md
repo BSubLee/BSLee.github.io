@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am undergraduate student at GIST. I am interested in drug development since I want more people to live healthier. I am working as an intern at Laboratory of drug discovery at GIST. 
+I am undergraduate student at GIST. I am interested in drug development since I want more people to live healthier. I am working as an intern at Laboratory of drug discovery at GIST.
+
+Skill
+======
+Python: Basic level
+
 
 Course attending(Fall 2023)
 ======
