@@ -16,6 +16,8 @@ Python: Basic level
 
 Course attending(Fall 2023)
 ======
+<img src="https://github.com/BSubLee/bsublee.github.io/blob/9042a0d29da0368fc75bd3e73d8c9324cffc5288/images/Fall-2023.png" width=50% height=50%>
+
 ![Course attending Fall 2023](/images/Fall-2023.png){: width="50%"}
 
 Contact Me
