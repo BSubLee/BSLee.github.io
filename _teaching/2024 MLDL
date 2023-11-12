@@ -1,0 +1,21 @@
+---
+title: "Basic Machine Learning and Deep Learning"
+collection: teaching
+type: "Personal education"
+permalink: /teaching/MLDL
+venue: "Online"
+date: 2024-01-01
+location: "Online"
+---
+
+This course is aimed to work on basic MLDL courses for Personal education.
+
+|Title|Contents|
+|---------|----------|
+|1. Basic outputs|[PPT]   [Code]   [Quiz]|
+|2. Conditions and Loops|[PPT]   [Code]   [Quiz]|
+|3. Functions|[PPT]   [Code]   [Quiz]|
+|4. Classes|[PPT]   [Code]   [Quiz]|
+|5. Numpy library|[PPT]   [Code]   [Quiz]|
+|6. Pandas library|[PPT]   [Code]   [Quiz]|
+|7. Matplotlib library|[PPT]   [Code]   [Quiz]|
