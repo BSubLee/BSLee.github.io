@@ -3,6 +3,9 @@ title: "Basic Python"
 collection: teaching
 type: "Personal education"
 permalink: /teaching/python
+venue: "Online"
+date: 2024-01-01
+location: "Online"
 ---
 
 This course is aimed to work on basic python courses for Personal education.
