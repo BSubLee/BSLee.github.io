@@ -2,7 +2,7 @@
 title: "Data structure and algorithm"
 collection: teaching
 type: "Teaching"
-permalink: /teaching/DSAG
+permalink: /teaching/dataalgorithm
 venue: "Online"
 date: 2024-01-01
 location: "Online"
