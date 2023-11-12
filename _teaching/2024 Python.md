@@ -12,8 +12,8 @@ This course is aimed to work on basic python courses for Personal education.
 
 |Title|Contents|
 |---------|----------|
-|1. Basic outputs|[PPT] [Code](https://colab.research.google.com/drive/153ZhMnJuPusNRu_NRwNSyEHqEOGqvPOS#scrollTo=jlNvXwfe0aWl)|
-|2. Conditions and Loops|테스트2|
+|1. Basic outputs|[PPT]   [Code](https://colab.research.google.com/drive/153ZhMnJuPusNRu_NRwNSyEHqEOGqvPOS#scrollTo=jlNvXwfe0aWl)|
+|2. Conditions and Loops|[PPT]   [Code](https://colab.research.google.com/drive/1oXE2UY-PQcEsHrniGZzwJZrWWSCxc7cR#scrollTo=qDaxay3aThmj)|
 |3. Functions|테스트2|
 |4. Classes|테스트2|
 |5. Numpy library|테스트2|
