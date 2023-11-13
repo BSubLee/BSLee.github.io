@@ -17,4 +17,4 @@ This course is aimed to work on basic python courses for Personal education.
 |3. File input/output|[PPT]   [Code]   [Quiz]|
 |4. Module and packages|[PPT]   [Code]   [Quiz]|
 |5. Numpy and Pandas libraries|[PPT]   [Code]   [Quiz]|
-|6. Data visulaization with Matplotlib and Seaborn|[PPT]   [Code]   [Quiz]|
+|6. Data visualization with Matplotlib and Seaborn|[PPT]   [Code]   [Quiz]|
