@@ -25,13 +25,6 @@ This course is aimed to work on basic python courses for Personal education.
 <style type="text/css">
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
 
-body {
-  background-color: #3e94ec;
-  font-family: "Roboto", helvetica, arial, sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-}
 
 div.table-title {
    display: block;
