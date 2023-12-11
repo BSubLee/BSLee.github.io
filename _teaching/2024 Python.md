@@ -30,7 +30,7 @@ div.table-title {
    display: block;
   margin: auto;
   max-width: 600px;
-  padding:5px;
+  padding:3px;
   width: 100%;
 }
 
@@ -88,7 +88,6 @@ tr {
   color:#666B85;
   font-size:16px;
   font-weight:normal;
-  text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
 }
  
 tr:hover td {
