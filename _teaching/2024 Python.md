@@ -23,9 +23,7 @@ This course is aimed to work on basic python courses for Personal education.
 |9. Data visualization with Matplotlib and Seaborn|[PPT]   [Code]   [Quiz]|
 
 <style type="text/css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
 
 
 div.table-title {
