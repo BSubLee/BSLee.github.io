@@ -51,7 +51,7 @@ div.table-title {
   background: white;
   border-radius:3px;
   border-collapse: collapse;
-  height: 320px;
+  height: 100px;
   margin: auto;
   max-width: 600px;
   padding:5px;
