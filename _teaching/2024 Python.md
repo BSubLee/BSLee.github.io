@@ -12,7 +12,7 @@ This course is aimed to work on basic python courses for Personal education.
 
 |Title|Contents|
 |---------|----------|
-|1. Basic grammar|[PPT]   [Code](https://colab.research.google.com/drive/153ZhMnJuPusNRu_NRwNSyEHqEOGqvPOS#scrollTo=jlNvXwfe0aWl)   [Quiz]|
+|1. Basic grammar|[PPT]   [Code](https://colab.research.google.com/drive/1Rd_tpc8CWIoBp4rFEC6jJPtCDxrIAsun?usp=sharing)   [Quiz]|
 |2. Functions|[PPT]   [Code]   [Quiz]|
 |3. Data structrures|[PPT]   [Code]   [Quiz]|
 |4. File input/output|[PPT]   [Code]   [Quiz]|
