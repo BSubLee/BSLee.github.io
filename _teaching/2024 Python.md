@@ -67,7 +67,7 @@ th {
   border-right: 1px solid #343a45;
   font-size:23px;
   font-weight: 100;
-  padding: 5px 24px;
+  padding: 8px 24px;
   text-align:left;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   vertical-align:middle;
@@ -122,7 +122,7 @@ tr:last-child td:last-child {
  
 td {
   background:#FFFFFF;
-  padding: 5px 20px;
+  padding: 7px 20px;
   text-align:left;
   vertical-align:middle;
   font-weight:300;
