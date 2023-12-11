@@ -181,23 +181,39 @@ td.text-right {
 </thead>
 <tbody class="table-hover">
 <tr>
-<td class="text-left">January</td>
+<td class="text-left">1. Basic grammar</td>
 <td class="text-left">$ 50,000.00</td>
 </tr>
 <tr>
-<td class="text-left">February</td>
+<td class="text-left">2. Functions</td>
 <td class="text-left">$ 10,000.00</td>
 </tr>
 <tr>
-<td class="text-left">March</td>
+<td class="text-left">3. Data structures</td>
 <td class="text-left">$ 85,000.00</td>
 </tr>
 <tr>
-<td class="text-left">April</td>
+<td class="text-left">4. File input/output</td>
 <td class="text-left">$ 56,000.00</td>
 </tr>
 <tr>
-<td class="text-left">May</td>
+<td class="text-left">5. Error exceptions</td>
+<td class="text-left">$ 98,000.00</td>
+</tr>
+<tr>
+<td class="text-left">6. Object-oriented programming</td>
+<td class="text-left">$ 98,000.00</td>
+</tr>
+<tr>
+<td class="text-left">7. Python standard libraries</td>
+<td class="text-left">$ 98,000.00</td>
+</tr>
+<tr>
+<td class="text-left">8. Numpy and Pandas library</td>
+<td class="text-left">$ 98,000.00</td>
+</tr>
+<tr>
+<td class="text-left">9. Data visualization with Matplotlib and Seaborn</td>
 <td class="text-left">$ 98,000.00</td>
 </tr>
 </tbody>
