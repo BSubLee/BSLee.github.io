@@ -23,7 +23,9 @@ This course is aimed to work on basic python courses for Personal education.
 |9. Data visualization with Matplotlib and Seaborn|[PPT]   [Code]   [Quiz]|
 
 <style type="text/css">
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
 
 
 div.table-title {
@@ -39,7 +41,7 @@ div.table-title {
    font-size: 30px;
    font-weight: 400;
    font-style:normal;
-   font-family: "Roboto", helvetica, arial, sans-serif;
+   font-family: 'Josefin Sans', sans-serif;
    text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
    text-transform:uppercase;
 }
@@ -160,55 +162,3 @@ td.text-right {
   text-align: right;
 }
 </style>
-
-<body>
-<div class="table-title">
-<h3>Data Table</h3>
-</div>
-<table class="table-fill">
-<thead>
-<tr>
-<th class="text-left">Month</th>
-<th class="text-left">Sales</th>
-</tr>
-</thead>
-<tbody class="table-hover">
-<tr>
-<td class="text-left">1. Basic grammar</td>
-<td class="text-left">$ 50,000.00</td>
-</tr>
-<tr>
-<td class="text-left">2. Functions</td>
-<td class="text-left">$ 10,000.00</td>
-</tr>
-<tr>
-<td class="text-left">3. Data structures</td>
-<td class="text-left">$ 85,000.00</td>
-</tr>
-<tr>
-<td class="text-left">4. File input/output</td>
-<td class="text-left">$ 56,000.00</td>
-</tr>
-<tr>
-<td class="text-left">5. Error exceptions</td>
-<td class="text-left">$ 98,000.00</td>
-</tr>
-<tr>
-<td class="text-left">6. Object-oriented programming</td>
-<td class="text-left">$ 98,000.00</td>
-</tr>
-<tr>
-<td class="text-left">7. Python standard libraries</td>
-<td class="text-left">$ 98,000.00</td>
-</tr>
-<tr>
-<td class="text-left">8. Numpy and Pandas library</td>
-<td class="text-left">$ 98,000.00</td>
-</tr>
-<tr>
-<td class="text-left">9. Data visualization with Matplotlib and Seaborn</td>
-<td class="text-left">$ 98,000.00</td>
-</tr>
-</tbody>
-</table>
-</body>
