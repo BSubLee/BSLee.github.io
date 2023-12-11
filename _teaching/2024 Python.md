@@ -27,7 +27,7 @@ This course is aimed to work on basic python courses for Personal education.
 
 
 div.table-title {
-   display: block;
+  display: block;
   margin: auto;
   max-width: 600px;
   padding:3px;
@@ -62,7 +62,7 @@ div.table-title {
  
 th {
   color:#D5DDE5;;
-  background:#4b89dc;
+  background:#708090;
   border-bottom:4px solid #9ea7af;
   border-right: 1px solid #343a45;
   font-size:23px;
