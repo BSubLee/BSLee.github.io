@@ -20,7 +20,7 @@ This course is aimed to work on basic python courses for Personal education.
 |6. Object-oriented programming|[PPT]   [Code]   [Quiz]|
 |7. Python standard libraries|[PPT]   [Code]   [Quiz]|
 |8. Numpy and Pandas libraries|[PPT]   [Code]   [Quiz]|
-|9. Data visualization with Matplotlib and Seaborn|[PPT]   [Code]   [Quiz]|
+|9. Data visualization with Matplotlib|[PPT]   [Code](https://colab.research.google.com/drive/1z4x6w_zaL8BzINtbXsUZtFzVKCQjrYq_?usp=sharing)   [Quiz]|
 
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
