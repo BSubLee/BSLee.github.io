@@ -15,12 +15,11 @@ This course is aimed to work on basic python courses for Personal education.
 |1. Basic grammar|[PPT]   [Code](https://colab.research.google.com/drive/1Rd_tpc8CWIoBp4rFEC6jJPtCDxrIAsun?usp=sharing)   [Quiz]|
 |2. Functions|[PPT]   [Code](https://colab.research.google.com/drive/1OYKFa3NTg5BHm6gESJU-T3IytA697NUz?usp=sharing)   [Quiz]|
 |3. Data structrures|[PPT]   [Code](https://colab.research.google.com/drive/1l9ZpU-m6WyOPycc5THRr4GMgeRNkMsTU?usp=sharing)   [Quiz]|
-|4. Input and output|[PPT]   [Code]   [Quiz]|
-|5. Error exceptions|[PPT]   [Code]   [Quiz]|
-|6. Object-oriented programming|[PPT]   [Code]   [Quiz]|
-|7. Python standard libraries|[PPT]   [Code]   [Quiz]|
-|8. Numpy and Pandas libraries|[PPT]   [Code]   [Quiz]|
-|9. Data visualization with Matplotlib|[PPT]   [Code](https://colab.research.google.com/drive/1z4x6w_zaL8BzINtbXsUZtFzVKCQjrYq_?usp=sharing)   [Quiz]|
+|4. Input and Error exceptions|[PPT]   [Code](https://colab.research.google.com/drive/1xh7Omf54uo-bW_SDihUMzsHTGUhf8q5e?usp=sharing)   [Quiz]|
+|5. Object-oriented programming|[PPT]   [Code]   [Quiz]|
+|6. Python standard libraries|[PPT]   [Code]   [Quiz]|
+|7. Numpy and Pandas libraries|[PPT]   [Code]   [Quiz]|
+|8. Data visualization with Matplotlib|[PPT]   [Code](https://colab.research.google.com/drive/1z4x6w_zaL8BzINtbXsUZtFzVKCQjrYq_?usp=sharing)   [Quiz]|
 
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
