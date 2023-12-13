@@ -17,7 +17,7 @@ This course is aimed to work on basic python courses for Personal education.
 |3. Data structrures|[PPT]   [Code](https://colab.research.google.com/drive/1l9ZpU-m6WyOPycc5THRr4GMgeRNkMsTU?usp=sharing)   [Quiz]|
 |4. Input and Error exceptions|[PPT]   [Code](https://colab.research.google.com/drive/1xh7Omf54uo-bW_SDihUMzsHTGUhf8q5e?usp=sharing)   [Quiz]|
 |5. Object-oriented programming|[PPT]   [Code](https://colab.research.google.com/drive/1aQsgklsHvU-jyk21YuPZsBkJLjykZ1ix?usp=sharing)   [Quiz]|
-|6. Python standard libraries|[PPT]   [Code]   [Quiz]|
+|6. Python standard libraries|[PPT]   [Code](https://colab.research.google.com/drive/1Xl2CyHwdwqzHwl4SNErrN_T5D2gCPX1P?usp=sharing)   [Quiz]|
 |7. Numpy and Pandas libraries|[PPT]   [Code]   [Quiz]|
 |8. Data visualization with Matplotlib|[PPT]   [Code](https://colab.research.google.com/drive/1z4x6w_zaL8BzINtbXsUZtFzVKCQjrYq_?usp=sharing)   [Quiz]|
 
