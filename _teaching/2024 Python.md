@@ -12,9 +12,9 @@ This course is aimed to work on basic python courses for Personal education.
 
 |Title|Contents|
 |---------|----------|
-|1. Basic grammar|[PPT]   [Code](https://colab.research.google.com/drive/1Rd_tpc8CWIoBp4rFEC6jJPtCDxrIAsun?usp=sharing)   [Quiz]|
-|2. Functions|[PPT]   [Code](https://colab.research.google.com/drive/1OYKFa3NTg5BHm6gESJU-T3IytA697NUz?usp=sharing)   [Quiz]|
-|3. Data structrures|[PPT]   [Code](https://colab.research.google.com/drive/1l9ZpU-m6WyOPycc5THRr4GMgeRNkMsTU?usp=sharing)   [Quiz]|
+|1. Basic grammar|[PPT]   [Code](https://colab.research.google.com/drive/1Rd_tpc8CWIoBp4rFEC6jJPtCDxrIAsun?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1rHd2qsWPjb9oag62joyBAYOqEFgc76Ol?usp=sharing)|
+|2. Functions|[PPT]   [Code](https://colab.research.google.com/drive/1OYKFa3NTg5BHm6gESJU-T3IytA697NUz?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1hk8AxlhtZUxtMeGal5u3L240-cbHtjCq?usp=drive_link)|
+|3. Data structrures|[PPT]   [Code](https://colab.research.google.com/drive/1l9ZpU-m6WyOPycc5THRr4GMgeRNkMsTU?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1YF4_7JkboeYJINTR2XvxAsji0On4LELy?usp=sharing)|
 |4. Input and Error exceptions|[PPT]   [Code](https://colab.research.google.com/drive/1xh7Omf54uo-bW_SDihUMzsHTGUhf8q5e?usp=sharing)   [Quiz]|
 |5. Object-oriented programming|[PPT]   [Code](https://colab.research.google.com/drive/1aQsgklsHvU-jyk21YuPZsBkJLjykZ1ix?usp=sharing)   [Quiz]|
 |6. Python standard libraries|[PPT]   [Code](https://colab.research.google.com/drive/1Xl2CyHwdwqzHwl4SNErrN_T5D2gCPX1P?usp=sharing)   [Quiz]|
