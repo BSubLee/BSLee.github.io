@@ -21,7 +21,8 @@ This course is aimed to work on basic python courses for Personal education.
 |7. NumPy library|[PPT]   [Code](https://colab.research.google.com/drive/1o7gWZLFYNXE2ngSWMj_UAqbQgusJEMaz?usp=sharing)   [Quiz]|
 |8. Pandas library|[PPT]   [Code](https://colab.research.google.com/drive/1g8hm5bAGSdOxvXKaQTpMfBkzekzHBPvh?usp=sharing)   [Quiz]|
 |9. Data visualization with Matplotlib|[PPT]   [Code](https://colab.research.google.com/drive/1z4x6w_zaL8BzINtbXsUZtFzVKCQjrYq_?usp=sharing)   [Quiz]|
-|10. SymPy and SciPy libraries|[PPT]   [Code]   [Quiz]|
+|10. SymPy library|[PPT]   [Code](https://colab.research.google.com/drive/1xoROCeQNnQ31aJfPiK154ntNncs4U1Ym?usp=sharing)   [Quiz]|
+|11. SciPy library|[PPT]   [Code]   [Quiz]|
 
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
