@@ -11,7 +11,7 @@ location: "Online"
 This course is aimed to work on basic python courses for Personal education.
 
 |Date|Title|Contents|
-|-----|---------|----------|
+|-------|---------|----------|
 |23.12.26|1. Basic grammar|[PPT](https://drive.google.com/file/d/1hTBhdpJ8qF-kfNt85CBtPAA_baAlsoJ6/view?usp=sharing)   [Code](https://colab.research.google.com/drive/1Rd_tpc8CWIoBp4rFEC6jJPtCDxrIAsun?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1rHd2qsWPjb9oag62joyBAYOqEFgc76Ol?usp=sharing)|
 |23.12.28|2. Functions|[PPT]   [Code](https://colab.research.google.com/drive/1OYKFa3NTg5BHm6gESJU-T3IytA697NUz?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1hk8AxlhtZUxtMeGal5u3L240-cbHtjCq?usp=drive_link)|
 |23.12.29 ~ 12.30|3. Data structrures|[PPT]   [Code](https://colab.research.google.com/drive/1l9ZpU-m6WyOPycc5THRr4GMgeRNkMsTU?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1YF4_7JkboeYJINTR2XvxAsji0On4LELy?usp=sharing)|
