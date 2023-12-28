@@ -18,7 +18,7 @@ This course is aimed to work on basic python courses for Personal education.
 |23.12.31|4. Input and Error exceptions|[PPT]   [Code](https://colab.research.google.com/drive/1xh7Omf54uo-bW_SDihUMzsHTGUhf8q5e?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1gnsnUTL9wu5nJvbouBT26uQx0dYSkgOT?usp=sharing)|
 |24.01.02 ~ 01.03|5. Object-oriented programming|[PPT]   [Code](https://colab.research.google.com/drive/1aQsgklsHvU-jyk21YuPZsBkJLjykZ1ix?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1ZLAv3w867friYtY7_NX_UEX4G9Tl9gty?usp=sharing)|
 |24.01.04|6. Python standard libraries|[PPT]   [Code](https://colab.research.google.com/drive/1Xl2CyHwdwqzHwl4SNErrN_T5D2gCPX1P?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1vwmXsg0eIyW__rKz8DU2VlWf6tLKtJFN?usp=sharing)|
-|24.01.05 ~ 01.07|7. NumPy library|[PPT]   [Code](https://colab.research.google.com/drive/1o7gWZLFYNXE2ngSWMj_UAqbQgusJEMaz?usp=sharing)   [Quiz]|
+|24.01.05 ~ 01.07|7. NumPy library|[PPT]   [Code](https://colab.research.google.com/drive/1o7gWZLFYNXE2ngSWMj_UAqbQgusJEMaz?usp=sharing)   [Quiz](https://colab.research.google.com/drive/1HflrkFgVZSkLQrh7Blw1FU0MXUmqcDSQ?usp=sharing)|
 |24.01.08 ~ 01.10|8. Pandas library|[PPT]   [Code](https://colab.research.google.com/drive/1g8hm5bAGSdOxvXKaQTpMfBkzekzHBPvh?usp=sharing)   [Quiz]|
 |24.01.11 ~ 01.13|9. Data visualization with Matplotlib|[PPT]   [Code](https://colab.research.google.com/drive/1z4x6w_zaL8BzINtbXsUZtFzVKCQjrYq_?usp=sharing)   [Quiz]|
 |24.01.14 ~ 01.15|10. SciPy library|[PPT]   [Code](https://colab.research.google.com/drive/1cOQzWiQKrbozi3vpTu3c2D2ZIShQclQo?usp=sharing)   [Quiz]|
