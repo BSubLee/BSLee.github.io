@@ -12,7 +12,7 @@ This course is aimed to work on basic Lienar algebra and Statistics courses for 
 
 |Date|Title|Contents|
 |-------|---------|----------|
-|24.01.02|1. Linear space|[PPT]   [Quiz]|
+|24.01.02|1. Linear space|[PPT](https://drive.google.com/file/d/12_Ijgn5Y5fivx6EAr3aaKql7LRcMGCHF/view?usp=sharing)   [Quiz]|
 |24.01.03~04|2. Linear combination and matrix|[PPT]   [Code]   [Quiz]|
 |24.01.05|3. Eigenvalues and Eigenvectors|[PPT]   [Code]   [Quiz]|
 |24.01.07~08|4. Inner product spaces|[PPT]   [Code]   [Quiz]|
