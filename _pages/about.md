@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am undergraduate student at GIST. I am interested in drug development since I want more people to live healthier. I am working as an intern at Laboratory of drug discovery at GIST. I am scheduled to work as B.S. student at System biology and medicine lab(SBML), KAIST.
+I am graduate student at Graduate School of Engineering Biology in Korea Advanced Institute of Scicence and Technology (KAIST). I am interested in drug discovery since I want more people to live healthier. I am working on metabolic engineering for drug discovery using machine learning techniques. I am working on System Biology and Medical Lab (SBML) with advisor Hyun Uk Kim.
 
 Skill
 
@@ -16,20 +16,20 @@ Skill
 * R: Can perform basic bioinformatics analysis
 
 
-Course attending(Fall 2023)
+Course attending(Spring 2024)
 ======
 
-AI4021-01 Machine Learning and Deep Learning(Prof. Sundong Kim, Mon/Wed 13:00-14:30)
+EB500	Introduction of Engineering Biology (Prof. Sung, Bong Hyun, Tue/Thu 14:30-16:00)
 
-MD4403-01 Aging Biology(Prof. Dongryeol Ryu, Mon/Wed 14:30-16:00)
+EB501 Design and Build for Engineering Biology (Prof. Kim, Haseong, Mon/Wed 13:00-14:30)
 
-BS3208-01 Immunology(Prof. Jinwook Choi, Mon/Wed 16:00-17:30)
+CBE567 Metabolic Engineering (Prof. Kim, Hyun Uk, Mon/Wed 14:30-16:00)
 
-BS4240-01 Practical Bioinformatics for Biologists(Prof. Subjae Lee, Tue/Thu 09:00-10:30)
+CC010 Special Lecture on Leadership (Fri 16:00-18:00)
 
-BS9103-01 Undergraduate Thesis Research II(Advisor: Prof. Yong-chul Kim)
+EB966 Seminar(Master) (Thu 16:00-17:30)
 
 
 Contact Me
 ------
-E-mail: byeongsublee@gm.gist.ac.kr
+E-mail: byeongsublee@kaist.ac.kr
